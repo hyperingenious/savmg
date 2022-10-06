@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Front-end Dev & web designer<br>🌱 I'm currently learning new skills <br>🤝 I’m looking for new opportunitie<br>
+🔭 I’m Front-end Dev & web designer<br>🌱 I'm currently learning new skills <br>🤝 I’m looking for new opportunities<br>
 
 
 ## 🌐 Socials:
