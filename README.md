@@ -7,5 +7,5 @@
 I develop websites!
 
 
-[![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravmeghwal&hide=issues&count_private=true&show_icons=true&theme=midnight-purple )](https://github.com/sauravmeghwal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmeghwal&layout=compact&theme=midnight-purple )](https://github.com/sauravmeghwal/github-readme-stats)
+[![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravmeghwal&hide=issues&count_private=true&show_icons=true&theme=synthwave )](https://github.com/sauravmeghwal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmeghwal&layout=compact&theme=synthwave )](https://github.com/sauravmeghwal/github-readme-stats)
