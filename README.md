@@ -1,6 +1,4 @@
-<h1 style='display:inline;'>Hey! I'm Saurav Meghwal.</h1>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px">
+## Hey! I'm Saurav Meghwal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub Saurav Meghwal](https://img.shields.io/github/followers/sauravmeghwal?label=follow&style=social)](https://github.com/sauravmeghwal)
 [![Linkedin: Saurav Meghwal](https://img.shields.io/badge/-Saurav%20Meghwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauravrma/)](https://www.linkedin.com/in/sauravrma/)
