@@ -1,6 +1,4 @@
-<!-- <h1 style='color:#814bea;'>Hey! I'm Saurav Meghwal.</h1> -->
-
-## This is the h1 heading <span style="color: red;">(in red)</span>
+<h1 style='color:#814bea;'>Hey! I'm Saurav Meghwal.</h1>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
