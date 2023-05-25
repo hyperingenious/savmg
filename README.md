@@ -1,4 +1,7 @@
-<h1 style='color:#814bea;'>Hey! I'm Saurav Meghwal.</h1>
+<!-- <h1 style='color:#814bea;'>Hey! I'm Saurav Meghwal.</h1> -->
+
+## This is the h1 heading <span style="color: red;">(in red)</span>
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub Saurav Meghwal](https://img.shields.io/github/followers/sauravmeghwal?label=follow&style=social)](https://github.com/sauravmeghwal)
