@@ -2,7 +2,7 @@
 
 [![GitHub Saurav Meghwal](https://img.shields.io/github/followers/sauravmeghwal?label=follow&style=social)](https://github.com/sauravmeghwal)
 [![Linkedin: Saurav Meghwal](https://img.shields.io/badge/-Saurav%20Meghwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauravrma/)](https://www.linkedin.com/in/sauravrma/)
-[![Twitter: Saurav Meghwal](https://img.shields.io/twitter/follow/sauravmeghwal?style=social)](https://twitter.com/sauravmeghwal)
+[![Twitter: Saurav Meghwal](https://img.shields.io/twitter/followers/sauravmeghwal?style=social)](https://twitter.com/sauravmeghwal)
 
 I develop websites!
 
