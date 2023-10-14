@@ -3,6 +3,8 @@
 [![GitHub Saurav Meghwal](https://img.shields.io/github/followers/savmg?label=follow&style=social)](https://github.com/sauravmeghwal)
 [![Linkedin: Saurav Meghwal](https://img.shields.io/badge/-Saurav%20Meghwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauravrma/)](https://www.linkedin.com/in/sauravrma/)
 [![Twitter: Saurav Meghwal](https://img.shields.io/twitter/follow/sauravmeghwal?style=social)](https://twitter.com/sauravmeghwal)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=savmg&label=Profile%20views&color=0e75b6&style=flat" alt="savmg" /> </p>
+
 
 I enchant Web Apps!
 
