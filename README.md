@@ -1,5 +1,5 @@
 # Hi I'm Saurav
-## I am a Frontend Developer, not your regular frontend developer as I am very focused to the small details
+<p>I am a Frontend Developer, not your regular frontend developer as I am very focused on the small details</p>
 
 [![GitHub Saurav Meghwal](https://img.shields.io/github/followers/savmg?label=follow&style=social)](https://github.com/sauravmeghwal)
 [![Linkedin: Saurav Meghwal](https://img.shields.io/badge/-Saurav%20Meghwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sauravrma/)](https://www.linkedin.com/in/sauravrma/)
